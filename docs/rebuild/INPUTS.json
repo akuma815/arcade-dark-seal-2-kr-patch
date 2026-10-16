@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-16",
+  "set": "darkseal2",
+  "parent": "wizdfire",
+  "release": "v1.0.3_20261005",
+  "description": "Dark Seal 2 Korean v1.0.3|다크씰 2 한글 v1.0.3",
+  "files": [
+    {
+      "path": "common/config/deco74_tables.json",
+      "bytes": 25049,
+      "sha256": "86d64770b0d389d7a5c57baea63f30ed186beeeeef21750c435078a4a4506cca"
+    },
+    {
+      "path": "darkseal2/workspace/font/mapping/ds2_glyph_map.json",
+      "bytes": 6243,
+      "sha256": "fe41242af10e569f4a940a5ead748b3df80e2153f1b786030af8a3931d8b2cea"
+    },
+    {
+      "path": "darkseal2/workspace/font/mapping/ds2_kana8_map.json",
+      "bytes": 519,
+      "sha256": "1e600c5aab9ade8271fd325d80f2f0bf211e16c4507954477992af97f7f1a708"
+    },
+    {
+      "path": "darkseal2/workspace/font/mapping/ds2_profile_font_map.json",
+      "bytes": 2732,
+      "sha256": "2aa614cdb9b68008fe69480cc743943d9b91fa6c3100e57fbc5973807d59ed25"
+    },
+    {
+      "path": "darkseal2/workspace/text/source/ds2_blocks.json",
+      "bytes": 149112,
+      "sha256": "fe2202b04c9ff69360dbf87eb570e1b067c9f5273d20267484707dcb2dc7c868"
+    },
+    {
+      "path": "darkseal2/workspace/text/source/ds2_profile_blocks.json",
+      "bytes": 171908,
+      "sha256": "da4e60250a59b6048c91b2201e7c67569f2221bbf55220d2e59ef204013900b8"
+    },
+    {
+      "path": "darkseal2/workspace/text/source/ds2_text_ja.json",
+      "bytes": 12227,
+      "sha256": "001e5c7e12b6b249886dce098f963d2bdcc69afddccb4a7ffd198814e1a5e1ff"
+    },
+    {
+      "path": "darkseal2/workspace/text/translation/ds2_translation.json",
+      "bytes": 97897,
+      "sha256": "19da323f6b622179f86d58f24f14c71b8171acd99e31068c04d952866c23c62c"
+    },
+    {
+      "path": "inputs/fonts/Galmuri11.ttf",
+      "bytes": 5376428,
+      "sha256": "2c709890595668f7bdb6df408420fda957dde0288e95b31a1cc17a2ab98b4b4f"
+    },
+    {
+      "path": "inputs/fonts/Galmuri11_16x16.png",
+      "bytes": 745190,
+      "sha256": "ed69582591ad99e0c351ab0bb0118657e775a6ae1b927c8d82d3d82891ff284c"
+    },
+    {
+      "path": "inputs/fonts/Galmuri7_8x8.png",
+      "bytes": 278547,
+      "sha256": "a2be473e22a62942164c95db60f3f5aa88a99f76b525994d194e9f5f9df387ea"
+    }
+  ],
+  "sets": {
+    "darkseal2": [
+      {
+        "name": "jb-00-3.3a",
+        "bytes": 131072,
+        "crc32": "1d38113a",
+        "sha256": "f3e63ce8605d8b199a7d99619f0b48c55567199c75858f9452bbf9cb5c7edfe1"
+      },
+      {
+        "name": "jb-01-3.3d",
+        "bytes": 131072,
+        "crc32": "82308c01",
+        "sha256": "9b08a0fc9593d0f75ac32c31949d89e49209ac1b3a112acd53e89ef8fad8b6c4"
+      },
+      {
+        "name": "jb-06.20r",
+        "bytes": 65536,
+        "crc32": "2066a1dd",
+        "sha256": "31c479f8ef41ccc342feeb33957b12bbb9448d94af73c571e104761bada5ee5a"
+      },
+      {
+        "name": "jb-05.12d",
+        "bytes": 65536,
+        "crc32": "22e2c49d",
+        "sha256": "ab0d1de31fd67b6987092c37a7c085d91de042d5826671562066c72f7f8c2af4"
+      },
+      {
+        "name": "jb-04.10d",
+        "bytes": 65536,
+        "crc32": "73cba800",
+        "sha256": "a0a3477feaabbfe2bb444a3d9ce1bd75e5156fcdbe80fa25d434b7e01aa740d8"
+      },
+      {
+        "name": "jb-03.5d",
+        "bytes": 131072,
+        "crc32": "5217d404",
+        "sha256": "e3fb9226b307a9b0dfb7aa58b6e2a3651977a24e211c84ef5b812b5208428a7c"
+      },
+      {
+        "name": "jb-02.5a",
+        "bytes": 131072,
+        "crc32": "36a1ce28",
+        "sha256": "9a4fedfb94d368239edb9f9aaacb0b52d134ea101fec30bae0649ef3958df53b"
+      }
+    ],
+    "wizdfire": [
+      {
+        "name": "je-05.12d",
+        "bytes": 65536,
+        "crc32": "22e2c49d",
+        "sha256": "ab0d1de31fd67b6987092c37a7c085d91de042d5826671562066c72f7f8c2af4"
+      },
+      {
+        "name": "je-04.10d",
+        "bytes": 65536,
+        "crc32": "73cba800",
+        "sha256": "a0a3477feaabbfe2bb444a3d9ce1bd75e5156fcdbe80fa25d434b7e01aa740d8"
+      },
+      {
+        "name": "je-03.5d",
+        "bytes": 131072,
+        "crc32": "5217d404",
+        "sha256": "e3fb9226b307a9b0dfb7aa58b6e2a3651977a24e211c84ef5b812b5208428a7c"
+      },
+      {
+        "name": "je-02.5a",
+        "bytes": 131072,
+        "crc32": "36a1ce28",
+        "sha256": "9a4fedfb94d368239edb9f9aaacb0b52d134ea101fec30bae0649ef3958df53b"
+      },
+      {
+        "name": "mb7122h.16l",
+        "bytes": 1024,
+        "crc32": "2bee57cc",
+        "sha256": "f1b8feb0e60c1b0b9166fa3156e6343dec48efa081dfd865234a0c179c41737e"
+      },
+      {
+        "name": "mas13",
+        "bytes": 524288,
+        "crc32": "7e5256ce",
+        "sha256": "c8b3021b3c72f1926b8f86b59928b70042d3da78fbdd126df5739695ff4fa76b"
+      },
+      {
+        "name": "mas12",
+        "bytes": 524288,
+        "crc32": "005bd499",
+        "sha256": "3ff21ce851cac6495ce39048952072148926d50fb0d6fa143fd3b7058576efea"
+      },
+      {
+        "name": "mas11",
+        "bytes": 524288,
+        "crc32": "c2f0a4f2",
+        "sha256": "c2c467a9d31c5ad77bd3727882ced89638107a35d9d325a7cf854aebbd2b0dd2"
+      },
+      {
+        "name": "mas09",
+        "bytes": 524288,
+        "crc32": "5f6deb41",
+        "sha256": "f360e40b1ea22022a8c0c7b83078aab35351843969e64143c2c4fe420cd2b95e"
+      },
+      {
+        "name": "mas08",
+        "bytes": 524288,
+        "crc32": "e224fb7a",
+        "sha256": "72ef80c2de6de190131998c2980b7384d110c1c77eac6e8fe9c9b330730f96ce"
+      },
+      {
+        "name": "mas07",
+        "bytes": 1048576,
+        "crc32": "31303769",
+        "sha256": "324d34ae3a6aab0132475f36ccff9adf093695d206cde895aa908dd60d666524"
+      },
+      {
+        "name": "mas06",
+        "bytes": 1048576,
+        "crc32": "3b8bbd45",
+        "sha256": "f82bc037fb4aa8b6933dd570560bb4b94b65a6a6467755bd151b95b6ad8275bc"
+      },
+      {
+        "name": "mas05",
+        "bytes": 1048576,
+        "crc32": "3826b8f8",
+        "sha256": "cc03f9e5dcccfdd7caf2bfb6c38443781996852a4d7893e549bfbe8139cc9ec7"
+      },
+      {
+        "name": "mas04",
+        "bytes": 1048576,
+        "crc32": "1e56953b",
+        "sha256": "3b65dd0f70ef3ce8bb7817d0ae1461c55547841c73289ec2cc23ffbe807567de"
+      },
+      {
+        "name": "mas03",
+        "bytes": 524288,
+        "crc32": "2fe61ea2",
+        "sha256": "92eca179624fc054ce35346ea43e1c4d29e109ed803b8b5cd0de2b9bd2d411e9"
+      },
+      {
+        "name": "mas02",
+        "bytes": 524288,
+        "crc32": "af00e620",
+        "sha256": "96115b5a529a66f070032d0214c7de7f92f7243a6206e086d64e046c030ab32f"
+      },
+      {
+        "name": "mas01",
+        "bytes": 1048576,
+        "crc32": "6d0c9d0b",
+        "sha256": "b0e9ce9bd2b4862a9d2b2cff23e5c1c8a6898b33cd46d7188c3591f126129576"
+      },
+      {
+        "name": "mas00",
+        "bytes": 1048576,
+        "crc32": "3d011034",
+        "sha256": "7fb34842651b339e127c690e8680064142f44e8a6cd8bcf0b917346be794dcc5"
+      },
+      {
+        "name": "je-06.20r",
+        "bytes": 65536,
+        "crc32": "79042546",
+        "sha256": "2dc52c03b0f36a4e63000dea8857c65d526c3ec3144557f1b0f01f719cabf9f9"
+      },
+      {
+        "name": "je-01.3d",
+        "bytes": 131072,
+        "crc32": "b6d62367",
+        "sha256": "726fa5318e4d43ce34a8ee202859e60ddc44e993199dd8f6a7dcc56657b80954"
+      },
+      {
+        "name": "je-00.3a",
+        "bytes": 131072,
+        "crc32": "f33de278",
+        "sha256": "57656d8d518827644511169f260eb1afd25be5d9c0c8aa40d9dba1314a64b05d"
+      },
+      {
+        "name": "mas10",
+        "bytes": 1048576,
+        "crc32": "f4b4c8a1",
+        "sha256": "6e30fea2203ee1460e9627442bbc8c1ee2e717b16b5262ce5cd36406abb77769"
+      }
+    ]
+  },
+  "expectedPatches": [
+    {
+      "name": "Korean-jb-00-3_3a.ips",
+      "bytes": 525,
+      "sha256": "3ccb3897f63054d43684b6b179a851d36970b7142b8175b8e8aded5da0deb5fc"
+    },
+    {
+      "name": "Korean-jb-01-3_3d.ips",
+      "bytes": 521,
+      "sha256": "1d3ee0bb5b1a7ac78a03527a8f94622ad850eacf6aa2c6e6b1c8855732e05d9b"
+    },
+    {
+      "name": "Korean-jb-04_10d.ips",
+      "bytes": 11301,
+      "sha256": "bb19019148def91ed5e299c8f8b077e930b0aa64b2f5babf81b7cb353bada5d0"
+    },
+    {
+      "name": "Korean-jb-05_12d.ips",
+      "bytes": 7067,
+      "sha256": "8acdec478f37d6e80717c265b48a5db11a73214c99dba30a81d4c95825bc42e1"
+    },
+    {
+      "name": "Korean-mas02.ips",
+      "bytes": 30528,
+      "sha256": "dc27d3586d3b21866df3ef704e7044f4dabae0d55ea8dcce68e0685d1d75fa95"
+    },
+    {
+      "name": "Korean-mas03.ips",
+      "bytes": 29918,
+      "sha256": "482a53bb100044bd1c9cfb1f1b7e42ce8c36d2567cebe281b52de7be8ba21ddd"
+    },
+    {
+      "name": "Korean-mas12.ips",
+      "bytes": 13656,
+      "sha256": "48807ed24b0bede4cf823682fed05844994107a975572587a4d781491f8b7c21"
+    },
+    {
+      "name": "Korean-mas13.ips",
+      "bytes": 12436,
+      "sha256": "c61fce4731fc2060c1dea319a6dd0984c17dd8a6ba4b2de75d30024052195c35"
+    }
+  ],
+  "originalIncluded": false,
+  "zipRepackingAllowed": true
+}

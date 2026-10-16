@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "set": "darkseal2",
+  "parent": "wizdfire",
+  "publicInputsVerified": 11,
+  "originalMembersVerified": 29,
+  "publishedIPSMatch": 8,
+  "ipsApplyMatchesBuild": [
+    {
+      "rom": "jb-01-3.3d",
+      "patch": "Korean-jb-01-3_3d.ips",
+      "targetSHA256": "18ed7a1ed49826b4087188b930596d7cb37177591a8a03da8d27b0a688a83637"
+    },
+    {
+      "rom": "jb-00-3.3a",
+      "patch": "Korean-jb-00-3_3a.ips",
+      "targetSHA256": "9a2c796c10cb92e1baec6af5981291e499c3caca14c78c5d4a98e130279c2530"
+    },
+    {
+      "rom": "mas13",
+      "patch": "Korean-mas13.ips",
+      "targetSHA256": "3005b94756798237918d58b82b9216cafaead59b0ac2c3af536849bc84fe39cf"
+    },
+    {
+      "rom": "mas12",
+      "patch": "Korean-mas12.ips",
+      "targetSHA256": "c33535062f1e685fb7ea01b7b1e77b49ba8a6e125500392befebf673a6e30b1e"
+    },
+    {
+      "rom": "mas02",
+      "patch": "Korean-mas02.ips",
+      "targetSHA256": "4feb8ef08dcedb19777fb2361170e9bcccdb6c3f2cfd7fef19c1679d297bc9d2"
+    },
+    {
+      "rom": "mas03",
+      "patch": "Korean-mas03.ips",
+      "targetSHA256": "859c0b2f7fe3250719a2152493e298c315816f0aae89eda8a8ab24b12ff7ed53"
+    },
+    {
+      "rom": "jb-04.10d",
+      "patch": "Korean-jb-04_10d.ips",
+      "targetSHA256": "714b5ca83c98fee02a522a340a0affea553f71f1fd9250d49e8ac0a5ac964add"
+    },
+    {
+      "rom": "jb-05.12d",
+      "patch": "Korean-jb-05_12d.ips",
+      "targetSHA256": "89c8dfcf95398d01faaf21b2e2fae34f3bc55decea18beef5d2d0a910a157a0b"
+    }
+  ],
+  "installedToEmulator": false,
+  "runtimeVerification": "not performed",
+  "date": "2026-10-16",
+  "downloadedReleaseZipSHA256": "7b20e69353f0862d12e1ee73a2cd710033fac81ee8dfe409d3a3260e8d6b57b6",
+  "downloadedReleaseCRC": "PASS",
+  "downloadedIPSPopulationAndHashes": "PASS",
+  "releaseDATByteMatch": true,
+  "wrongSetsRejected": true,
+  "existingOutputRejected": true
+}

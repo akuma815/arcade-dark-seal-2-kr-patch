@@ -27,8 +27,8 @@ from patchutil import check_allowed, crc32, ips_build  # noqa: E402
 LEDGER = L.GAME / "workspace" / "text" / "translation" / "ds2_translation.json"
 GMAP = L.GAME / "workspace" / "font" / "mapping" / "ds2_glyph_map.json"
 BLOCKS = L.GAME / "workspace" / "text" / "source" / "ds2_blocks.json"
-FONT16 = L.ROOT.parent.parent / "Font" / "Galmuri11_16x16.png"
-FONT_TTF = L.ROOT.parent.parent / "Font" / "Galmuri11.ttf"
+FONT16 = L.ROOT / "inputs" / "fonts" / "Galmuri11_16x16.png"
+FONT_TTF = L.ROOT / "inputs" / "fonts" / "Galmuri11.ttf"
 FBNEO_IPS = Path(r"H:\FBNeo v1.0.0.03\support\ips\darkseal2")
 STATUS_RANK = {"ignored": -1, "untranslated": 0, "draft": 1, "needs_review": 2, "approved": 3}
 # 글리프 스타일: A = 배경 2(상자색/검정 패널 위), B = 배경 0 투명(게임 화면 위에 바로 그리는 대사·엔딩). 2026-10-05 사용자 요청
@@ -38,7 +38,7 @@ SKY_BOX_ROW0 = 27
 VERTICAL_ONLY = {"「", "」"}                      # 투명 스타일 원본 타일이 세로쓰기 모양인 문장부호(재사용 금지)                              # 하늘 스토리 블록에서 하단 상자(0xa88 채움)가 시작하는 행
 CREDITS_TILES = set(range(0xE09, 0xE11))     # 스태프롤 전용(일본어 유지). 0xdc2~0xdce 한자는 스태프롤이 쓰지 않음(credits 레코드 집합으로 확인) → 풀에 포함
 PMAP = L.GAME / "workspace" / "font" / "mapping" / "ds2_profile_font_map.json"
-FONT8 = L.ROOT.parent.parent / "Font" / "Galmuri7_8x8.png"
+FONT8 = L.ROOT / "inputs" / "fonts" / "Galmuri7_8x8.png"
 PROFILE_BLOCKS = L.GAME / "workspace" / "text" / "source" / "ds2_profile_blocks.json"
 # 프로필 폰트에 없는 문장부호는 직접 그린다(8×8 마스크, 본체만 — 그림자는 자동)
 HANDMADE8 = {
