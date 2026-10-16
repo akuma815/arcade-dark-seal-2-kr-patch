@@ -1,0 +1,14 @@
+{
+  "src": "assets/screenshots/arcade-dark-seal-2-kr-patch.png",
+  "caption": "한글 프롤로그 · v1.0.1 캡처",
+  "kind": "runtime",
+  "width": 960,
+  "height": 752,
+  "source": "Games/Dark Seal/darkseal2/work/dumps_Korean_v101_check/screenshot.png",
+  "sourceSHA256": "05f9fd3d8baebfcf287fc4bb98f17df1def0162b21dfebbdc51fcedae31b42f3",
+  "assetSHA256": "05f9fd3d8baebfcf287fc4bb98f17df1def0162b21dfebbdc51fcedae31b42f3",
+  "pixelSHA256": "44155656a51b70d5edeac56bdf72afc2b63e3a61ca5102d3769ccf8dd594a8de",
+  "sourceNote": "dumps_Korean_v101_check 게임 캡처",
+  "readmeAsset": "img/preview.png",
+  "displayNote": "dumps_Korean_v101_check 게임 캡처 작업 당시 화면이며 최종 배포본의 화면 검증을 의미하지 않습니다."
+}
