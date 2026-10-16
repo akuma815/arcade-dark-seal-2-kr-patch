@@ -1,0 +1,388 @@
+{
+ "set": "darkseal2",
+ "name": "Korean",
+ "version": "1.0.3",
+ "date": "20261005",
+ "roms": {
+  "jb-01-3.3d": {
+   "changed_bytes": 367,
+   "ips": "Korean-jb-01-3_3d.ips",
+   "crc": "82308c01"
+  },
+  "jb-00-3.3a": {
+   "changed_bytes": 400,
+   "ips": "Korean-jb-00-3_3a.ips",
+   "crc": "1d38113a"
+  },
+  "mas13": {
+   "changed_bytes": 6656,
+   "ips": "Korean-mas13.ips",
+   "crc": "7e5256ce"
+  },
+  "mas12": {
+   "changed_bytes": 8722,
+   "ips": "Korean-mas12.ips",
+   "crc": "005bd499"
+  },
+  "mas02": {
+   "changed_bytes": 18187,
+   "ips": "Korean-mas02.ips",
+   "crc": "af00e620"
+  },
+  "mas03": {
+   "changed_bytes": 9877,
+   "ips": "Korean-mas03.ips",
+   "crc": "2fe61ea2"
+  },
+  "jb-04.10d": {
+   "changed_bytes": 4597,
+   "ips": "Korean-jb-04_10d.ips",
+   "crc": "73cba800"
+  },
+  "jb-05.12d": {
+   "changed_bytes": 4264,
+   "ips": "Korean-jb-05_12d.ips",
+   "crc": "22e2c49d"
+  }
+ },
+ "scripts": [
+  {
+   "id": "M:000",
+   "label": "",
+   "rows": 4
+  },
+  {
+   "id": "M:005",
+   "label": "",
+   "rows": 3
+  },
+  {
+   "id": "M:009",
+   "label": "",
+   "rows": 1
+  },
+  {
+   "id": "M:023",
+   "label": "",
+   "rows": 4
+  },
+  {
+   "id": "M:039",
+   "label": "",
+   "rows": 5
+  },
+  {
+   "id": "M:055",
+   "label": "",
+   "rows": 5
+  },
+  {
+   "id": "M:071",
+   "label": "",
+   "rows": 2
+  },
+  {
+   "id": "M:087",
+   "label": "",
+   "rows": 6
+  },
+  {
+   "id": "M:104",
+   "label": "",
+   "rows": 5
+  },
+  {
+   "id": "M:120",
+   "label": "",
+   "rows": 5
+  },
+  {
+   "id": "M:136",
+   "label": "",
+   "rows": 4
+  },
+  {
+   "id": "M:152",
+   "label": "",
+   "rows": 4
+  },
+  {
+   "id": "M:168",
+   "label": "",
+   "rows": 4
+  },
+  {
+   "id": "M:184",
+   "label": "",
+   "rows": 5
+  },
+  {
+   "id": "M:200",
+   "label": "",
+   "rows": 4
+  },
+  {
+   "id": "M:216",
+   "label": "",
+   "rows": 2
+  },
+  {
+   "id": "M:232",
+   "label": "",
+   "rows": 3
+  },
+  {
+   "id": "M:248",
+   "label": "",
+   "rows": 5
+  },
+  {
+   "id": "M:264",
+   "label": "",
+   "rows": 2
+  },
+  {
+   "id": "M:280",
+   "label": "",
+   "rows": 2
+  },
+  {
+   "id": "M:296",
+   "label": "",
+   "rows": 2
+  },
+  {
+   "id": "M:312",
+   "label": "",
+   "rows": 3
+  },
+  {
+   "id": "M:328",
+   "label": "",
+   "rows": 2
+  },
+  {
+   "id": "M:344",
+   "label": "",
+   "rows": 5
+  },
+  {
+   "id": "M:360",
+   "label": "",
+   "rows": 3
+  },
+  {
+   "id": "M:376",
+   "label": "",
+   "rows": 3
+  },
+  {
+   "id": "M:392",
+   "label": "",
+   "rows": 4
+  },
+  {
+   "id": "X:0a39d8",
+   "label": "sky",
+   "rows": 15
+  },
+  {
+   "id": "X:0abf70",
+   "label": "npc[1]",
+   "rows": 2
+  },
+  {
+   "id": "X:0ac240",
+   "label": "npc[2]",
+   "rows": 3
+  },
+  {
+   "id": "X:0aeab8",
+   "label": "ending[0]",
+   "rows": 2
+  },
+  {
+   "id": "X:0aed38",
+   "label": "ending[1]",
+   "rows": 3
+  },
+  {
+   "id": "X:0aab98",
+   "label": "tablet",
+   "rows": 3
+  },
+  {
+   "id": "X:0aadf0",
+   "label": "boss[0]",
+   "rows": 2
+  },
+  {
+   "id": "X:0ab070",
+   "label": "boss[1]",
+   "rows": 1
+  },
+  {
+   "id": "X:0ab2f0",
+   "label": "boss[2]",
+   "rows": 1
+  },
+  {
+   "id": "X:0abcf0",
+   "label": "boss[5]",
+   "rows": 4
+  },
+  {
+   "id": "X:0ac1f0",
+   "label": "boss[6]",
+   "rows": 2
+  },
+  {
+   "id": "X:0ac470",
+   "label": "boss[7]",
+   "rows": 2
+  },
+  {
+   "id": "PF:4",
+   "label": "profile 4",
+   "rows": 6
+  },
+  {
+   "id": "PF:5",
+   "label": "profile 5",
+   "rows": 5
+  },
+  {
+   "id": "PF:6",
+   "label": "profile 6",
+   "rows": 6
+  },
+  {
+   "id": "PF:7",
+   "label": "profile 7",
+   "rows": 6
+  },
+  {
+   "id": "PF:8",
+   "label": "profile 8",
+   "rows": 6
+  },
+  {
+   "id": "PF:9",
+   "label": "profile 9",
+   "rows": 6
+  },
+  {
+   "id": "PF:10",
+   "label": "profile 10",
+   "rows": 6
+  },
+  {
+   "id": "PF:11",
+   "label": "profile 11",
+   "rows": 6
+  },
+  {
+   "id": "AS:3b",
+   "label": "ascii record 3b",
+   "rows": 1
+  },
+  {
+   "id": "AS:3c",
+   "label": "ascii record 3c",
+   "rows": 5
+  },
+  {
+   "id": "AS:08",
+   "label": "ascii record 08",
+   "rows": 1
+  },
+  {
+   "id": "AS:09",
+   "label": "ascii record 09",
+   "rows": 1
+  },
+  {
+   "id": "AS:0a",
+   "label": "ascii record 0a",
+   "rows": 1
+  },
+  {
+   "id": "AS:0b",
+   "label": "ascii record 0b",
+   "rows": 1
+  },
+  {
+   "id": "AS:0c",
+   "label": "ascii record 0c",
+   "rows": 1
+  },
+  {
+   "id": "AS:0d",
+   "label": "ascii record 0d",
+   "rows": 1
+  },
+  {
+   "id": "AS:0e",
+   "label": "ascii record 0e",
+   "rows": 1
+  },
+  {
+   "id": "AS:0f",
+   "label": "ascii record 0f",
+   "rows": 1
+  },
+  {
+   "id": "AS:10",
+   "label": "ascii record 10",
+   "rows": 1
+  },
+  {
+   "id": "AS:11",
+   "label": "ascii record 11",
+   "rows": 1
+  },
+  {
+   "id": "AS:12",
+   "label": "ascii record 12",
+   "rows": 1
+  },
+  {
+   "id": "AS:13",
+   "label": "ascii record 13",
+   "rows": 1
+  },
+  {
+   "id": "AS:3d",
+   "label": "ascii record 3d",
+   "rows": 2
+  },
+  {
+   "id": "WR:a61c",
+   "label": "wordrec record 00a61c",
+   "rows": 5
+  },
+  {
+   "id": "QD:14",
+   "label": "quad record 007e76",
+   "rows": 4
+  },
+  {
+   "id": "QD:15",
+   "label": "quad record 007f0e",
+   "rows": 3
+  },
+  {
+   "id": "QD:16",
+   "label": "quad record 007fac",
+   "rows": 2
+  },
+  {
+   "id": "RK:0",
+   "label": "rank names",
+   "rows": 6
+  }
+ ],
+ "untranslated": [
+  "X:0ac600"
+ ]
+}

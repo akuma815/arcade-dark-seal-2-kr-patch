@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-16",
+  "project": "다크 실 2",
+  "files": [
+    {
+      "path": "common/config/deco74_tables.json",
+      "source": "common/config/deco74_tables.json",
+      "bytes": 25049,
+      "sha256": "86d64770b0d389d7a5c57baea63f30ed186beeeeef21750c435078a4a4506cca"
+    },
+    {
+      "path": "common/glossary/glossary.md",
+      "source": "common/glossary/glossary.md",
+      "bytes": 487,
+      "sha256": "3a56ea237bba4c206b0538ed2410a6fe7c2ebe2ee8a3492ee2446588867b7a96"
+    },
+    {
+      "path": "common/scripts/deco74.py",
+      "source": "common/scripts/deco74.py",
+      "bytes": 7392,
+      "sha256": "08a9373696bb8deb2f206c224d47c0aa4b1774d77efd579ff1cf9b40fbf28cbc"
+    },
+    {
+      "path": "common/scripts/extract_sets.py",
+      "source": "common/scripts/extract_sets.py",
+      "bytes": 3546,
+      "sha256": "6c84f379a5471dcdc996c8092dba189f11061c3ed1832d7f507f591943ef4c9b"
+    },
+    {
+      "path": "common/scripts/fbneo_attach.py",
+      "source": "common/scripts/fbneo_attach.py",
+      "bytes": 2544,
+      "sha256": "19875a38a11f43797100da280caaea6202e0db3c9a393d9ff71a20e6ab5fda6f"
+    },
+    {
+      "path": "common/scripts/fbneo_dump.py",
+      "source": "common/scripts/fbneo_dump.py",
+      "bytes": 5504,
+      "sha256": "3ac2f558b3610e9a20c168393f6dce702924462cc982506ccd11bd3c075f5f54"
+    },
+    {
+      "path": "common/scripts/fbneo_lua.py",
+      "source": "common/scripts/fbneo_lua.py",
+      "bytes": 8193,
+      "sha256": "3d86bb10fe764305e532995168f83909cac81dcdd64eb9daef4914e2bfe83919"
+    },
+    {
+      "path": "common/scripts/fbneo_play.py",
+      "source": "common/scripts/fbneo_play.py",
+      "bytes": 1701,
+      "sha256": "da7ad95b7a8ca985677ad8d3690dba1e0a1755fa26920aa65388e04a6a46da26"
+    },
+    {
+      "path": "common/scripts/fbneo_run_lua.py",
+      "source": "common/scripts/fbneo_run_lua.py",
+      "bytes": 1193,
+      "sha256": "e7512899d832540b4c3691111a24195657583fb3ebc2a10f4d1088f000558012"
+    },
+    {
+      "path": "common/scripts/make_dist.py",
+      "source": "common/scripts/make_dist.py",
+      "bytes": 4526,
+      "sha256": "151d8acfd526d699d4291c6177c5d792627f8e2a35e74f0c6dd06b1d494ce272"
+    },
+    {
+      "path": "common/scripts/patchutil.py",
+      "source": "common/scripts/patchutil.py",
+      "bytes": 2569,
+      "sha256": "ab5c13562900515bce244e63b7b87b25cfd6d9029aafe4119d1bc32ce100b769"
+    },
+    {
+      "path": "common/scripts/render_chars.py",
+      "source": "common/scripts/render_chars.py",
+      "bytes": 3917,
+      "sha256": "26d8bcd6927c033839e9aa20a1af66128226d6638a73e1f1d6759bef60781f70"
+    },
+    {
+      "path": "darkseal2/workspace/font/mapping/ds2_glyph_map.json",
+      "source": "darkseal2/workspace/font/mapping/ds2_glyph_map.json",
+      "bytes": 6243,
+      "sha256": "fe41242af10e569f4a940a5ead748b3df80e2153f1b786030af8a3931d8b2cea"
+    },
+    {
+      "path": "darkseal2/workspace/font/mapping/ds2_kana8_map.json",
+      "source": "darkseal2/workspace/font/mapping/ds2_kana8_map.json",
+      "bytes": 519,
+      "sha256": "1e600c5aab9ade8271fd325d80f2f0bf211e16c4507954477992af97f7f1a708"
+    },
+    {
+      "path": "darkseal2/workspace/font/mapping/ds2_profile_font_map.json",
+      "source": "darkseal2/workspace/font/mapping/ds2_profile_font_map.json",
+      "bytes": 2732,
+      "sha256": "2aa614cdb9b68008fe69480cc743943d9b91fa6c3100e57fbc5973807d59ed25"
+    },
+    {
+      "path": "darkseal2/workspace/scripts/apply_drafts.py",
+      "source": "darkseal2/workspace/scripts/apply_drafts.py",
+      "bytes": 6205,
+      "sha256": "7ee027c14b8400125aad720d044f9e5707f74aa9f0a535ee0eb64ae3a63f6727"
+    },
+    {
+      "path": "darkseal2/workspace/scripts/build_poc.py",
+      "source": "darkseal2/workspace/scripts/build_poc.py",
+      "bytes": 5620,
+      "sha256": "62a2ab1eeb5ad2ab1e654004cd279311d66448bd09c60085ebdc1725d025192d"
+    },
+    {
+      "path": "darkseal2/workspace/scripts/build_translation.py",
+      "source": "darkseal2/workspace/scripts/build_translation.py",
+      "bytes": 34480,
+      "sha256": "1481f25b273161fa57d39af850fca6b8ddd54ab1b321d29188ac0348ec4d8f05"
+    },
+    {
+      "path": "darkseal2/workspace/scripts/ds2lib.py",
+      "source": "darkseal2/workspace/scripts/ds2lib.py",
+      "bytes": 12561,
+      "sha256": "4a442890ae8fb9e2dbedca0e0d4cdb5cbf4d3fe99bd2acb32497484c23a62cc7"
+    },
+    {
+      "path": "darkseal2/workspace/scripts/extract_profile.py",
+      "source": "darkseal2/workspace/scripts/extract_profile.py",
+      "bytes": 8757,
+      "sha256": "9b65c0b69eebd253b4f08a61c0c5310f4d3409474aa047fd27793a107d224bc7"
+    },
+    {
+      "path": "darkseal2/workspace/scripts/extract_text.py",
+      "source": "darkseal2/workspace/scripts/extract_text.py",
+      "bytes": 5540,
+      "sha256": "20917e7b006c7afb24697b0318ad8a50f24bc51c15a121bc22e1c41eb54a3624"
+    },
+    {
+      "path": "darkseal2/workspace/scripts/glyph_map.py",
+      "source": "darkseal2/workspace/scripts/glyph_map.py",
+      "bytes": 6208,
+      "sha256": "a349cb590230b23b1c667633f8c2a3f2805b2d5c80b019b735749232c5eeccdb"
+    },
+    {
+      "path": "darkseal2/workspace/scripts/make_ledger.py",
+      "source": "darkseal2/workspace/scripts/make_ledger.py",
+      "bytes": 6567,
+      "sha256": "8a118a88daa8f0b9822e8c3b2fabbaaaf854601a882e2eece63e645c20ed28aa"
+    },
+    {
+      "path": "darkseal2/workspace/tests/cheat_qa.lua",
+      "source": "darkseal2/workspace/tests/cheat_qa.lua",
+      "bytes": 1429,
+      "sha256": "54b463aca7ea023485251dbe12bd2d83d896bef5d08d0cbeaf0bd234c11b4663"
+    },
+    {
+      "path": "darkseal2/workspace/tests/dump_layers.lua",
+      "source": "darkseal2/workspace/tests/dump_layers.lua",
+      "bytes": 1151,
+      "sha256": "b9ff204fe19ff1315dfffdab5f6898952bc1b8d508bbbc1655987d83b9c81e7a"
+    },
+    {
+      "path": "darkseal2/workspace/tests/dump_pf2.lua",
+      "source": "darkseal2/workspace/tests/dump_pf2.lua",
+      "bytes": 652,
+      "sha256": "90ed1b9b956b3bf0a32d174a840007ba633c4023575f19a51a0c45631b8ed147"
+    },
+    {
+      "path": "darkseal2/workspace/tests/dump_pf2.txt",
+      "source": "darkseal2/workspace/tests/dump_pf2.txt",
+      "bytes": 41268,
+      "sha256": "9173ab96afdb75e521ae926eaa92817f84c1f66ae9fa211eef5ae7b18613bc8a"
+    },
+    {
+      "path": "darkseal2/workspace/tests/dump_warp_Korean.txt",
+      "source": "darkseal2/workspace/tests/dump_warp_Korean.txt",
+      "bytes": 41268,
+      "sha256": "9173ab96afdb75e521ae926eaa92817f84c1f66ae9fa211eef5ae7b18613bc8a"
+    },
+    {
+      "path": "darkseal2/workspace/tests/dump_warp_orig.txt",
+      "source": "darkseal2/workspace/tests/dump_warp_orig.txt",
+      "bytes": 41268,
+      "sha256": "9173ab96afdb75e521ae926eaa92817f84c1f66ae9fa211eef5ae7b18613bc8a"
+    },
+    {
+      "path": "darkseal2/workspace/tests/sheet_fbneo.lua",
+      "source": "darkseal2/workspace/tests/sheet_fbneo.lua",
+      "bytes": 403,
+      "sha256": "9f36d122a1ff7ffceb3263d70bf7f461f5bc081e4e741ab6c9c3221b08d0139e"
+    },
+    {
+      "path": "darkseal2/workspace/tests/walk_dump.lua",
+      "source": "darkseal2/workspace/tests/walk_dump.lua",
+      "bytes": 1706,
+      "sha256": "8a665607f4503cb37fc6a460a0aaa0564fa6b972ac099fbdb096b87934a6cde1"
+    },
+    {
+      "path": "darkseal2/workspace/text/translation/drafts_v1.json",
+      "source": "darkseal2/workspace/text/translation/drafts_v1.json",
+      "bytes": 3832,
+      "sha256": "0cee9e3b07ea48fbeea2f92bcbb81687d31dfe7a2f02d243eb5192c232bd024e"
+    },
+    {
+      "path": "darkseal2/workspace/text/translation/drafts_v2_extra.json",
+      "source": "darkseal2/workspace/text/translation/drafts_v2_extra.json",
+      "bytes": 1703,
+      "sha256": "4fb0fb8fc3ec664a0da1bbacf7d4abd312f7268c35d68bc12652bc5d8763df92"
+    },
+    {
+      "path": "darkseal2/workspace/text/translation/drafts_v3_profile.json",
+      "source": "darkseal2/workspace/text/translation/drafts_v3_profile.json",
+      "bytes": 6364,
+      "sha256": "ec2b77058a956885e25549f345f83aa3590b16793b9c579154451b82fffb375d"
+    },
+    {
+      "path": "darkseal2/workspace/text/translation/ds2_translation.json",
+      "source": "darkseal2/workspace/text/translation/ds2_translation.json",
+      "bytes": 97897,
+      "sha256": "19da323f6b622179f86d58f24f14c71b8171acd99e31068c04d952866c23c62c"
+    },
+    {
+      "path": "darkseal2/workspace/text/translation/review_v1.md",
+      "source": "darkseal2/workspace/text/translation/review_v1.md",
+      "bytes": 24088,
+      "sha256": "bdfa2f46753d449babb32b36526bc20a89f46443153bb0f541bd8b4ef6cd961d"
+    },
+    {
+      "path": "darkseal2/docs/build.md",
+      "source": "darkseal2/docs/build.md",
+      "bytes": 21025,
+      "sha256": "e6781fec03721bbec66cf8e98285d263391b539a666dea4fe555c35b77839b9e"
+    },
+    {
+      "path": "darkseal2/docs/poc.md",
+      "source": "darkseal2/docs/poc.md",
+      "bytes": 2235,
+      "sha256": "b807e6e91d97cc3b7047c34c3f0e294ffa4b9c91cfc21c065a154c231aaa012f"
+    },
+    {
+      "path": "darkseal2/docs/survey.md",
+      "source": "darkseal2/docs/survey.md",
+      "bytes": 9333,
+      "sha256": "dd39571446f48b9bad0dedddf53b4f5b171eed17606f33f33b05e74a3ca72fd9"
+    },
+    {
+      "path": "docs/PROJECT_NOTES.md",
+      "source": "README.md",
+      "bytes": 6545,
+      "sha256": "23e47e50a4821c65665b6f9e7976217c6315d28ac423160bada5b30fb97d41e4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+Dark Seal 2 (Japan v2.1) 한글 패치 v1.0.3 (20261005)
+
+■ 형식
+  FBNeo(FinalBurn Neo) IPS 패치. 원본 ROM 파일은 포함되어 있지 않습니다.
+  지원 세트: darkseal2 (부모 세트 wizdfire 포함, MAME 0.2xx 계열 ROM 이름/CRC 기준)
+
+■ 적용 방법 (FBNeo v1.0.0.03 기준)
+  1. 이 zip 안의 support 폴더를 FBNeo 설치 폴더에 그대로 덮어씁니다.
+     → FBNeo\support\ips\darkseal2\Korean.dat 와 Korean-*.ips 가 생깁니다.
+  2. FBNeo 에서 darkseal2 을 선택한 뒤 "IPS Manager"(게임 메뉴) 에서 "Korean" 패치를 체크하고 실행합니다.
+     또는 명령줄: fbneo64.exe darkseal2 -ips Korean
+  3. 패치는 실행 시 메모리에서만 적용되며 원본 zip 은 수정되지 않습니다.
+
+■ 패치가 바꾸는 ROM (8개)
+  jb-01-3.3d     원본 CRC 82308c01 (367 바이트 변경, Korean-jb-01-3_3d.ips)
+  jb-00-3.3a     원본 CRC 1d38113a (400 바이트 변경, Korean-jb-00-3_3a.ips)
+  mas13          원본 CRC 7e5256ce (6656 바이트 변경, Korean-mas13.ips)
+  mas12          원본 CRC 005bd499 (8722 바이트 변경, Korean-mas12.ips)
+  mas02          원본 CRC af00e620 (18187 바이트 변경, Korean-mas02.ips)
+  mas03          원본 CRC 2fe61ea2 (9877 바이트 변경, Korean-mas03.ips)
+  jb-04.10d      원본 CRC 73cba800 (4597 바이트 변경, Korean-jb-04_10d.ips)
+  jb-05.12d      원본 CRC 22e2c49d (4264 바이트 변경, Korean-jb-05_12d.ips)
+
+■ 주의
+  - 클론 세트 전용 패치입니다. 부모 세트(wizdfire)만 실행하면 적용되지 않습니다.
+  - 다른 버전의 ROM(CRC 불일치)에는 적용되지 않습니다.
+  - 폰트: Galmuri (SIL OFL 1.1, https://github.com/quiple/galmuri)
+
+■ 파일 무결성
+  SHA256.txt 참고
