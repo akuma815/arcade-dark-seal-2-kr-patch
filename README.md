@@ -6,10 +6,10 @@
 
 <!-- game-preview:start -->
 <p align="center">
-  <img src="img/preview.png" alt="다크 실 2 — 한글 프롤로그 · v1.0.1 캡처" width="640">
+  <img src="img/capture-20261016.png" alt="다크 실 2 — 타이틀 · 원문 로고" width="640">
 </p>
 
-**한글 프롤로그 · v1.0.1 캡처** — dumps_Korean_v101_check 게임 캡처 작업 당시 화면이며 최종 배포본의 화면 검증을 의미하지 않습니다.
+**타이틀 · 원문 로고** — 사용자가 촬영한 FBNeo 타이틀 화면. 현재 설치 패치 9개가 공개 v1.0.3과 해시 일치하며 타이틀 로고는 원문입니다.
 <!-- game-preview:end -->
 
 ## 다운로드 및 적용 방법
